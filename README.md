@@ -1,4 +1,4 @@
-# C-and-C-Pipe
+# C-Pipe
 ### C and C++ Pipe (reading output from another console application)
 
 Based from this Link https://pubs.opengroup.org/onlinepubs/009695399/functions/popen.html
